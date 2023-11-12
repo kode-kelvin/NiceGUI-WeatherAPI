@@ -71,7 +71,7 @@ with cont:
         temp = ui.label().classes('text-5xl font-bold')  # temp in celsuis
     weather_feels = ui.label()  # feels like
     city_weather = ui.label()  # description
-    humidity_info = ui.label()  # humidity
+    humidity_info = ui.label()  # humidity-
 
 # -- Run the app -- --
 ui.run(title='MeteorMate', favicon="🔅", host='0.0.0.0', port=8006)
