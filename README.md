@@ -1,3 +1,4 @@
+ABOUT APP
 MeteorMate represents a straightforward weather application crafted using the latest Python Fullstack framework, NiceGUI. Powered by the OpenWeather API (https://openweathermap.org/), this app provides weather information in a user-friendly interface.
 
 SCREENSHOTS
@@ -6,7 +7,6 @@ SCREENSHOTS
 
 VIDEO DEMO
 https://github.com/kode-kelvin/NiceGUI-OpenWeatherAPI/assets/51726237/f26e5f68-644c-469d-aacc-5af7f132cb40
-
 
 Prepare the environment by creating a virtual setup, installing Python, and updating pip:
 
